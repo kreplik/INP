@@ -1,1 +1,1 @@
-# INP
+# NÁVRH POČÍTAČOVÝCH SYSTÉMŮ
